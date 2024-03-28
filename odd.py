@@ -1,7 +1,7 @@
 # =============================================================================
-# This application is dowing the following:
+# This application is doing the following:
 # 1) Generates a list with odd numbers from 1 to 60
-# 2) Takes the current minute from system data and time and checks
+# 2) Takes the current minute from system date and time and checks
 # if this value is present in the list of odd numbers.
 # 3) Generates random number of seconds to wait until the next iteration
 # 4) Displays a countdown of seconds remaining to wait
